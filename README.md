@@ -31,3 +31,4 @@
 ### UI / UX
 
 - **[Colors & Fonts](https://www.colorsandfonts.com/)**: Explore Colors & Fonts, your go-to resource for color and typography tools designed for web developers and digital designers.
+- **[Happy Hues](https://www.happyhues.co/)**: See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.
