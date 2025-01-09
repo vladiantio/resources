@@ -10,3 +10,7 @@
 
 - **[PostSpark](https://postspark.app/)**: Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
 - **[Shots](https://shots.so/)**: Create Amazing Mockups.
+
+### UI / UX
+
+- **[Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)**: A visual generator to build organic looking shapes with the help of CSS border-radius property.
