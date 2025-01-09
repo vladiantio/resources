@@ -7,6 +7,13 @@
 - **[Tailwind Generator](https://tailwind-generator.com/)**: Collection of useful tools and generators for Tailwind to create, design and customize all kind of web components using a graphical editor.
 - **[Tailwind Grid Generator](https://www.tailwindgen.com/)**: A user-friendly tool designed for web developers to effortlessly create customizable Tailwind CSS grids for seamless web development.
 
+### Icons & SVG libraries
+
+- **[Devicon](https://devicon.dev/)**: A set of icons representing programming languages, designing, and development tools.
+- **[Lucide](https://lucide.dev/)**: Beautiful & consistent icon toolkit made by the community.
+- **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
+- **[Tabler Icons](https://tabler.io/icons)**: +5800 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!
+
 ### Sandbox
 
 - **[SQL Playground](https://sqlplayground.app/)**: Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
