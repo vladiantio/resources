@@ -14,6 +14,10 @@
 - **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 - **[Tabler Icons](https://tabler.io/icons)**: +5800 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!
 
+### Image Tools
+
+- **[bg.addy.ie](https://bg.addy.ie/)**: Free image background removal - private, client-side and powered by Transformers.js
+
 ### Sandbox
 
 - **[codi.link](https://codi.link/)**: Live editor for HTML, CSS and JS. Edit your code in real-time, and see the result instantly.
