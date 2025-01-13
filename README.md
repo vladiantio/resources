@@ -33,6 +33,7 @@
 ### Snippets
 
 - **[BG.IBELICK](https://bg.ibelick.com/)**: A collection of modern background snippets for web developers. Ready-to-use snippets crafted with Tailwind CSS and Vanilla CSS for seamless integration.
+- **[LDRS — UI Ball](https://uiball.com/ldrs/)**: Free, open-source loading animations. Available as copy/paste HTML or drop-in web components. Compatible with every modern framework.
 
 ### Testing
 
