@@ -19,6 +19,10 @@
 - **[bg.addy.ie](https://bg.addy.ie/)**: Free image background removal - private, client-side and powered by Transformers.js
 - **[Squoosh](https://squoosh.app/)**: An image optimizer that allows you to compress and compare images with different codecs in your browser.
 
+### Performance review
+
+- **[Bundlephobia](https://bundlephobia.com/)**: Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
+
 ### Sandbox
 
 - **[codi.link](https://codi.link/)**: Live editor for HTML, CSS and JS. Edit your code in real-time, and see the result instantly.
