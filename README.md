@@ -50,6 +50,7 @@
 
 ### UI / UX
 
+- **[CallToInspiration](https://calltoinspiration.com/)**: Small details for very exacting ideas! A great tool created by a deisnger for web professionals.
 - **[Colors & Fonts](https://www.colorsandfonts.com/)**: Explore Colors & Fonts, your go-to resource for color and typography tools designed for web developers and digital designers.
 - **[Fontjoy](https://fontjoy.com/)**: Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 - **[Happy Hues](https://www.happyhues.co/)**: See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.
