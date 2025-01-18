@@ -4,6 +4,10 @@
 
 - **[The Front-End Checklist](https://frontendchecklist.io/)**: It's perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
 
+### Fonts
+
+- **[Fontsource](https://fontsource.org/)**: Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
+
 ### Generators
 
 - **[CSS Grid Generator](https://cssgridgenerator.io/)**: A user-friendly tool designed for web developers to effortlessly create customizable CSS grids for seamless web development.
