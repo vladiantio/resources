@@ -21,6 +21,7 @@
 ### Image Tools
 
 - **[bg.addy.ie](https://bg.addy.ie/)**: Free image background removal - private, client-side and powered by Transformers.js
+- **[ITOA](https://itoa.hex.dance/)**: Convert images to ASCII art with optional color support.
 - **[Squoosh](https://squoosh.app/)**: An image optimizer that allows you to compress and compare images with different codecs in your browser.
 
 ### NPM Package Analysis
