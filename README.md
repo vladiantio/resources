@@ -4,6 +4,10 @@
 
 - **[The Front-End Checklist](https://frontendchecklist.io/)**: It's perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
 
+### Debugging
+
+- **[Source Map Visualization](https://evanw.github.io/source-map-visualization/)**: A visualization of JavaScript/CSS source map data, which is useful for debugging problems with generated source maps.
+
 ### Generators
 
 - **[CSS Grid Generator](https://cssgridgenerator.io/)**: A user-friendly tool designed for web developers to effortlessly create customizable CSS grids for seamless web development.
