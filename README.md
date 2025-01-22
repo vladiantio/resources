@@ -40,6 +40,7 @@
 - **[codi.link](https://codi.link/)**: Live editor for HTML, CSS and JS. Edit your code in real-time, and see the result instantly.
 - **[SQL Playground](https://sqlplayground.app/)**: Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
 - **[RunTS](https://runts.acbc.dev/)**: A TypeScript playground for running typescript code with: Themes, Auto-refresh, Live execution, Open Source, Open to contributions.
+- **[Tailwind Play](https://play.tailwindcss.com/)**: An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
 
 ### Screenshots
 
