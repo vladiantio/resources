@@ -28,6 +28,7 @@
 
 - **[bg.addy.ie](https://bg.addy.ie/)**: Free image background removal - private, client-side and powered by Transformers.js
 - **[ITOA](https://itoa.hex.dance/)**: Convert images to ASCII art with optional color support.
+- **[Squish](https://squish.addy.ie/)**: Fast, efficient batch image compression right in your browser. Supports AVIF, JPEG, JXL, PNG, and WebP formats with adjustable quality settings.
 - **[Squoosh](https://squoosh.app/)**: An image optimizer that allows you to compress and compare images with different codecs in your browser.
 
 ### NPM Package Analysis
