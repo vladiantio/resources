@@ -35,7 +35,7 @@
 - **[Bundlephobia](https://bundlephobia.com/)**: Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
 - **[NPM Chart](https://npm.chart.dev/)**: Visualize npm downloads in a beautiful chart, ready to be shared with your community.
 
-### Sandbox
+### Playground
 
 - **[codi.link](https://codi.link/)**: Live editor for HTML, CSS and JS. Edit your code in real-time, and see the result instantly.
 - **[SQL Playground](https://sqlplayground.app/)**: Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
