@@ -22,10 +22,11 @@
 - **[Tailwind Generator](https://tailwind-generator.com/)**: Collection of useful tools and generators for Tailwind to create, design and customize all kind of web components using a graphical editor.
 - **[Tailwind Grid Generator](https://www.tailwindgen.com/)**: A user-friendly tool designed for web developers to effortlessly create customizable Tailwind CSS grids for seamless web development.
 
-### Icons & SVG libraries
+### Icons & Illustrations
 
 - **[Devicon](https://devicon.dev/)**: A set of icons representing programming languages, designing, and development tools.
 - **[Lucide](https://lucide.dev/)**: Beautiful & consistent icon toolkit made by the community.
+- **[Reshot](https://www.reshot.com/)**: Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing. No attribution required.
 - **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 - **[Tabler Icons](https://tabler.io/icons)**: +5800 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!
 
