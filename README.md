@@ -44,6 +44,11 @@
 - **[Squish](https://squish.addy.ie/)**: Fast, efficient batch image compression right in your browser. Supports AVIF, JPEG, JXL, PNG, and WebP formats with adjustable quality settings.
 - **[Squoosh](https://squoosh.app/)**: An image optimizer that allows you to compress and compare images with different codecs in your browser.
 
+### Loading Animations
+
+- **[LDRS — UI Ball](https://uiball.com/ldrs/)**: Free, open-source loading animations. Available as copy/paste HTML or drop-in web components. Compatible with every modern framework.
+- **[magecdn - SVG Spinners](https://magecdn.com/tools/svg-loaders)**: 100+ Open Source SVG Spinners. No attribution required.
+
 ### NPM Package Analysis
 
 - **[Bundlephobia](https://bundlephobia.com/)**: Bundlephobia helps you find the performance impact of npm packages. Find the size of any javascript package and its effect on your frontend bundle.
@@ -59,7 +64,6 @@
 ### Snippets
 
 - **[BG.IBELICK](https://bg.ibelick.com/)**: A collection of modern background snippets for web developers. Ready-to-use snippets crafted with Tailwind CSS and Vanilla CSS for seamless integration.
-- **[LDRS — UI Ball](https://uiball.com/ldrs/)**: Free, open-source loading animations. Available as copy/paste HTML or drop-in web components. Compatible with every modern framework.
 - **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
 
 ### Testing
