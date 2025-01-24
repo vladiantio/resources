@@ -4,13 +4,13 @@
 
 - **[The Front-End Checklist](https://frontendchecklist.io/)**: It's perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
 
-### Documentation
-
-- **[DevDocs](https://devdocs.io/)**: Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
-
 ### Debugging
 
 - **[Source Map Visualization](https://evanw.github.io/source-map-visualization/)**: A visualization of JavaScript/CSS source map data, which is useful for debugging problems with generated source maps.
+
+### Documentation
+
+- **[DevDocs](https://devdocs.io/)**: Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 
 ### Generators
 
