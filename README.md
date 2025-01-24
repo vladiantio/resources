@@ -29,6 +29,12 @@
 - **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 - **[Tabler Icons](https://tabler.io/icons)**: +5800 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!
 
+### Image Editors
+
+- **[CodeSnap](https://codesnap.dev/)**: An image editor for developers, who want to share beautiful images of their code.
+- **[PostSpark](https://postspark.app/)**: Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
+- **[Shots](https://shots.so/)**: Create Amazing Mockups.
+
 ### Image Tools
 
 - **[bg.addy.ie](https://bg.addy.ie/)**: Free image background removal - private, client-side and powered by Transformers.js
@@ -47,11 +53,6 @@
 - **[SQL Playground](https://sqlplayground.app/)**: Explore, learn, and share SQL queries in our free online SQL playground. Support for MySQL and PostgreSQL, perfect for testing and enhancing your SQL skills.
 - **[RunTS](https://runts.acbc.dev/)**: A TypeScript playground for running typescript code with: Themes, Auto-refresh, Live execution, Open Source, Open to contributions.
 - **[Tailwind Play](https://play.tailwindcss.com/)**: An advanced online playground for Tailwind CSS that lets you use all of Tailwind's build-time features directly in the browser.
-
-### Screenshots
-
-- **[PostSpark](https://postspark.app/)**: Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
-- **[Shots](https://shots.so/)**: Create Amazing Mockups.
 
 ### Snippets
 
