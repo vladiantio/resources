@@ -65,6 +65,7 @@
 ### Snippets
 
 - **[BG.IBELICK](https://bg.ibelick.com/)**: A collection of modern background snippets for web developers. Ready-to-use snippets crafted with Tailwind CSS and Vanilla CSS for seamless integration.
+- **[HyperUI](https://www.hyperui.dev/)**: Free Tailwind CSS components that can be used in your next project.
 - **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
 - **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
 
