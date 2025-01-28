@@ -27,6 +27,7 @@
 
 - **[Avaaatars](https://www.avaaatars.com/)**: The largest Library of Avatars in the world. Customizable and commercially free.
 - **[Devicon](https://devicon.dev/)**: A set of icons representing programming languages, designing, and development tools.
+- **[Isocons](https://www.isocons.app/)**: Carefully crafted isometric icons.
 - **[Lucide](https://lucide.dev/)**: Beautiful & consistent icon toolkit made by the community.
 - **[Reshot](https://www.reshot.com/)**: Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing. No attribution required.
 - **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
