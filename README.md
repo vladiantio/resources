@@ -16,6 +16,7 @@
 
 - **[Colour Palette Generator](https://www.colourpalettegenerator.com/)**: Super Fast Color Palette Generator! Just click the Generate button or press Spacebar to get new color scheme instantly.
 - **[CSS Grid Generator](https://cssgridgenerator.io/)**: A user-friendly tool designed for web developers to effortlessly create customizable CSS grids for seamless web development.
+- **[CSS Glassmorphism Generator](https://notchtools.com/css-glassmorphism-generator)**: Create a glassmorphism effect with pure CSS or Tailwind CSS. Customize the background, blur, and opacity, then grab the CSS code with vendor prefixes.
 - **[CSS Layout Generator](https://layout.bradwoods.io/)**: A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 - **[Easing Wizard](https://easingwizard.com/)**: Generate and customize CSS easing functions with ease and magical precision using Easing Wizard.
 - **[Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)**: A visual generator to build organic looking shapes with the help of CSS border-radius property.
