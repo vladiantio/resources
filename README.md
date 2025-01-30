@@ -1,6 +1,6 @@
 ## Resources
 
-## API Development
+### API Development
 
 - **[Hoppscotch](https://hoppscotch.io/)**: An open source alternative to Postman without installations. Helps you create requests faster, saving precious time on development.
 
