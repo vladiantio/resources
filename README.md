@@ -1,3 +1,9 @@
+## AI Resources
+
+### Database
+
+- **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
+
 ## Resources
 
 ### API Development
