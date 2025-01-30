@@ -1,5 +1,9 @@
 ## Resources
 
+## API Development
+
+- **[Hoppscotch](https://hoppscotch.io/)**: An open source alternative to Postman without installations. Helps you create requests faster, saving precious time on development.
+
 ### Checklists
 
 - **[The Front-End Checklist](https://frontendchecklist.io/)**: It's perfect for modern websites and meticulous developers! Follow the rules and deliver the best of your work in a generated report!
