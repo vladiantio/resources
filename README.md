@@ -1,5 +1,9 @@
 ## AI Resources
 
+### Agents
+
+- **[Browser Use](https://browser-use.com)**: Make websites accessible for AI agents. Extract interactive elements and automate browser interactions.
+
 ### Database
 
 - **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
