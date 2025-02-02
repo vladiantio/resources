@@ -3,6 +3,7 @@
 ### Agents
 
 - **[Browser Use](https://browser-use.com)**: Make websites accessible for AI agents. Extract interactive elements and automate browser interactions.
+- **[Convergence Proxy](https://proxy.convergence.ai/)**: It's a fully automated AI assistant for your daily tasks.
 
 ### Database
 
