@@ -35,6 +35,7 @@
 - **[CSS Layout Generator](https://layout.bradwoods.io/)**: A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.
 - **[Easing Wizard](https://easingwizard.com/)**: Generate and customize CSS easing functions with ease and magical precision using Easing Wizard.
 - **[Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)**: A visual generator to build organic looking shapes with the help of CSS border-radius property.
+- **[Mesh Gradient](https://meshgradient.com/)**: Create beautiful mesh gradients.
 - **[Scrollbar.app](https://scrollbar.app/)**: Simple CSS scrollbar editor.
 - **[Tailwind Generator](https://tailwind-generator.com/)**: Collection of useful tools and generators for Tailwind to create, design and customize all kind of web components using a graphical editor.
 - **[Tailwind Grid Generator](https://www.tailwindgen.com/)**: A user-friendly tool designed for web developers to effortlessly create customizable Tailwind CSS grids for seamless web development.
