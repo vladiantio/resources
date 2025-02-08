@@ -87,6 +87,10 @@
 - **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
 - **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
 
+### Status
+
+- **[Web Platform Status](https://webstatus.dev/)**: A tool to monitor and track the status of all Web Platform features across dimensions that are related to availability and implementation quality across browsers, and adoption by web developers.
+
 ### Testing
 
 - **[RegExr](https://regexr.com/)**: Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.
