@@ -49,6 +49,7 @@
 - **[Reshot](https://www.reshot.com/)**: Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing. No attribution required.
 - **[svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 - **[Tabler Icons](https://tabler.io/icons)**: +5800 free and open source SVG icons. Customizable size, color and stroke. Available for React, SolidJS, Vue, Figma and more for free!
+- **[TechIcons](https://techicons.dev/)**: Download, copy and paste tech icons in SVG and PNG format for your projects.
 
 ### Image Editors
 
