@@ -9,6 +9,10 @@
 
 - **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
 
+### Prompts
+
+- **[prompts.chat](https://prompts.chat/)**: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
 ## Resources
 
 ### API Development
