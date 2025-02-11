@@ -5,6 +5,16 @@
 - **[Browser Use](https://browser-use.com)**: Make websites accessible for AI agents. Extract interactive elements and automate browser interactions.
 - **[Convergence Proxy](https://proxy.convergence.ai/)**: It's a fully automated AI assistant for your daily tasks.
 
+### Alternatives to ChatGPT and DeepSeek
+
+- **[Copilot](https://copilot.microsoft.com/)**: An AI assistant from Microsoft.
+- **[Gemini](https://gemini.google.com/)**: An AI assistant from Google.
+- **[Claude](https://claude.ai/)**: An AI assistant from Anthropic.
+- **[Perplexity](https://www.perplexity.ai/)**: A free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+- **[Qwen](https://chat.qwenlm.ai/)**: Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
+- **[Kimi](https://kimi.ai/)**: Kimi is a new-quality productivity tool for students and professionals. It helps you interpret academic papers, write code and debug, plan strategies, create novels, and translate in multiple languages. When you have questions, just ask Kimi, and it will solve all your problems with just one click.
+- **[Mistral LeChat](https://chat.mistral.ai/chat)**: Chat with Mistral AI's most advanced language models.
+
 ### Database
 
 - **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
