@@ -24,6 +24,7 @@
 - **[a0.dev](https://a0.dev/)**: Create apps from text descriptions.
 - **[v0.dev](https://v0.dev/)**: Generate UI with simple text prompts. Copy, paste, ship.
 - **[bolt.new](https://bolt.new/)**: Prompt, run, edit, and deploy full-stack and mobile apps.
+- **[Tinte](https://tinte.railly.dev/)**: VS Code Theme generator that helps you create stunning and consistent color themes for your IDE. With a wide range of preset colors and customization options, Tinte makes it easy to design beautiful VS Code themes.
 
 ### Prompts
 
