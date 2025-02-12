@@ -19,9 +19,11 @@
 
 - **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
 
-### Mobile Apps Generator
+### Generators
 
 - **[a0.dev](https://a0.dev/)**: Create apps from text descriptions.
+- **[v0.dev](https://v0.dev/)**: Generate UI with simple text prompts. Copy, paste, ship.
+- **[bolt.new](https://bolt.new/)**: Prompt, run, edit, and deploy full-stack and mobile apps.
 
 ### Prompts
 
