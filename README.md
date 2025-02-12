@@ -19,6 +19,10 @@
 
 - **[database.build](https://database.build)**: In-browser Postgres sandbox with AI assistance.
 
+### Mobile Apps Generator
+
+- **[a0.dev](https://a0.dev/)**: Create apps from text descriptions.
+
 ### Prompts
 
 - **[prompts.chat](https://prompts.chat/)**: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
