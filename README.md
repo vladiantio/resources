@@ -14,6 +14,7 @@
 - **[Qwen](https://chat.qwenlm.ai/)**: Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
 - **[Kimi](https://kimi.ai/)**: Kimi is a new-quality productivity tool for students and professionals. It helps you interpret academic papers, write code and debug, plan strategies, create novels, and translate in multiple languages. When you have questions, just ask Kimi, and it will solve all your problems with just one click.
 - **[Mistral LeChat](https://chat.mistral.ai/chat)**: Chat with Mistral AI's most advanced language models.
+- **[Mercury Coder](https://chat.inceptionlabs.ai/)**: The first commercial-grade diffusion LLM.
 
 ### Database
 
