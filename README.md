@@ -65,6 +65,7 @@
 - **[Scrollbar.app](https://scrollbar.app/)**: Simple CSS scrollbar editor.
 - **[Tailwind Generator](https://tailwind-generator.com/)**: Collection of useful tools and generators for Tailwind to create, design and customize all kind of web components using a graphical editor.
 - **[Tailwind Grid Generator](https://www.tailwindgen.com/)**: A user-friendly tool designed for web developers to effortlessly create customizable Tailwind CSS grids for seamless web development.
+- **[tweakcn](https://tweakcn.com/)**: A visual editor for shadcn/ui components. Currently in beta with button component support. Customize and export beautiful components with ease.
 
 ### Icons & Illustrations
 
