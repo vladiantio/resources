@@ -132,5 +132,6 @@
 - **[Fontjoy](https://fontjoy.com/)**: Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing.
 - **[Fontsource](https://fontsource.org/)**: Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
 - **[Happy Hues](https://www.happyhues.co/)**: See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.
+- **[Laws of UX](https://lawsofux.com/)**: A collection of best practices that designers can consider when building user interfaces.
 - **[OKLCH Color Picker & Converter](https://oklch.com/)**: OKLCH is a new way to encode colors (like HEX, RGBA, or HSL).
 - **[uifonts.app](https://www.uifonts.app/)**: Test and preview fonts in real-time for all your design needs. Choose the perfect typeface with ease.
