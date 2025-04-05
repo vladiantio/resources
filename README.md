@@ -81,6 +81,7 @@
 
 ### Image Editors
 
+- **[CleanSnap](https://www.cleansnap.co/)**: A free AI tool that quickly transforms screenshots into watermark-free, professional images for sharing on social media. Simple and fast!
 - **[CodeSnap](https://codesnap.dev/)**: An image editor for developers, who want to share beautiful images of their code.
 - **[PostSpark](https://postspark.app/)**: Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
 - **[ray.so](https://ray.so)**: Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
