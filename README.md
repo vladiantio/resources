@@ -28,6 +28,7 @@
 - **[bolt.new](https://bolt.new/)**: Prompt, run, edit, and deploy full-stack and mobile apps.
 - **[Tinte](https://tinte.railly.dev/)**: VS Code Theme generator that helps you create stunning and consistent color themes for your IDE. With a wide range of preset colors and customization options, Tinte makes it easy to design beautiful VS Code themes.
 - **[Lovable](https://lovable.dev/)**: Build software products, using only a chat interface.
+- **[new.email](https://new.email/)**: Create beautiful email templates using natural language.
 
 ### Prompts
 
