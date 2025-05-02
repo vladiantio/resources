@@ -125,6 +125,7 @@
 ### Testing
 
 - **[RegExr](https://regexr.com/)**: Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns.
+- **[RunSQL](https://runsql.com/)**: Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 
 ### UI / UX
 
