@@ -4,6 +4,7 @@
 
 - **[Browser Use](https://browser-use.com)**: Make websites accessible for AI agents. Extract interactive elements and automate browser interactions.
 - **[Convergence Proxy](https://proxy.convergence.ai/)**: It's a fully automated AI assistant for your daily tasks.
+- **[Manus](https://manus.im/)**: It's a general AI agent that turns your thoughts into actions. It excels at various tasks in work and life, getting everything done while you rest.
 
 ### Alternatives to ChatGPT and DeepSeek
 
