@@ -150,4 +150,5 @@
   - **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
 - Non-Shadcn based
   - **[HyperUI](https://www.hyperui.dev/)**: Free Tailwind CSS components that can be used in your next project.
+  - **[Starwind UI](https://starwind.dev)**: A set of powerful, accessible components for your Astro projects. Styled with Tailwind CSS v4. Open Source.
   - **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
