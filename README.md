@@ -147,6 +147,7 @@
 ### UI Components
 
 - Shadcn based
+  - **[21st.dev](https://21st.dev/)**: Ship polished UIs faster with ready-to-use React Tailwind components inspired by shadcn/ui.
   - **[Kibo UI](https://www.kibo-ui.com/)**: A custom registry of composable, accessible and open source components designed for use with shadcn/ui.
   - **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
 - Non-Shadcn based
