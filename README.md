@@ -122,9 +122,6 @@
 ### Snippets
 
 - **[BG.IBELICK](https://bg.ibelick.com/)**: A collection of modern background snippets for web developers. Ready-to-use snippets crafted with Tailwind CSS and Vanilla CSS for seamless integration.
-- **[HyperUI](https://www.hyperui.dev/)**: Free Tailwind CSS components that can be used in your next project.
-- **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
-- **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
 
 ### Status
 
@@ -146,3 +143,11 @@
 - **[Laws of UX](https://lawsofux.com/)**: A collection of best practices that designers can consider when building user interfaces.
 - **[OKLCH Color Picker & Converter](https://oklch.com/)**: OKLCH is a new way to encode colors (like HEX, RGBA, or HSL).
 - **[uifonts.app](https://www.uifonts.app/)**: Test and preview fonts in real-time for all your design needs. Choose the perfect typeface with ease.
+
+### UI Components
+
+- Shadcn based
+  - **[Origin UI](https://originui.com/)**: An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.
+- Non-Shadcn based
+  - **[HyperUI](https://www.hyperui.dev/)**: Free Tailwind CSS components that can be used in your next project.
+  - **[Tremor](https://tremor.so/)**: Open-source, accessible React UI components styled with Tailwind CSS to build charts and dashboards.
